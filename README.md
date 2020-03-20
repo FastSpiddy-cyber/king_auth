@@ -1,2 +1,2 @@
-# wox_auth
-Developed by W4H9LT
+# KingUI 
+Language: C++/QT
