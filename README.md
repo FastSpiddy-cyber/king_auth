@@ -1,2 +1,2 @@
-# KingUI 
+# XorUI 
 Language: C++/QT
